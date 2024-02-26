@@ -1,0 +1,1 @@
+((lambda x: (first x) (3 2 1)) 1)
